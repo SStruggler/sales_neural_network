@@ -1,0 +1,20 @@
+Quantity
+Discount
+Profit
+month
+year
+day_of_week
+is_weekend
+month_sin
+month_cos
+day_sin
+day_cos
+discount_percentage
+promo_active
+Region_East
+Region_South
+Region_West
+Segment_Corporate
+Segment_Home Office
+Category_Office Supplies
+Category_Technology
